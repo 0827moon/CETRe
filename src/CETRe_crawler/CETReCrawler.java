@@ -27,7 +27,7 @@ import twitter4j.TwitterStreamFactory;
 
 import crawler.util.*;
 
-public class TwitterCrawler {
+public class CETReCrawler {
 	public static SimpleDateFormat fm = new SimpleDateFormat("MM|dd-HH:mm");
 	private String fileFolder = "KeyWord", fileName;
 	private int trackThrsd;
