@@ -4,7 +4,7 @@ Content-based Event Tweet Retrieval (CETRe)
 This Event Tweet Retrieval tool is based on the content similarity between the Hashtags' Tf-idf(Term frequency - inverse document frequence).
 
 See the following paper: 
-Xinyue Wang, [Laurissa Tokarchuk]( http://www.eecs.qmul.ac.uk/~laurissa), and [Stefan Poslad](http://www.eecs.qmul.ac.uk/~stefan) (2014). Identifying Relevant Event Content for Real-time Event Detection. To be appeared in Proceedings of the 2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM '14).
+Xinyue Wang, [Laurissa Tokarchuk]( http://www.eecs.qmul.ac.uk/~laurissa), and [Stefan Poslad](http://www.eecs.qmul.ac.uk/~stefan) (2014). [Identifying Relevant Event Content for Real-time Event Detection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6921616). In Proceedings of the 2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM '14).
 
 Motivation
 ----------
