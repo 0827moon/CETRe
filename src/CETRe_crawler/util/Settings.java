@@ -47,17 +47,9 @@ public class Settings {
 	public static ArrayList<String> AccessToken = new ArrayList<String>();
 	public static ArrayList<String> AccessSecret = new ArrayList<String>();
 	
-	public final static String[] ConsumerKeyArray = {"",
-													 ""
-													 };
-	public final static String[] ConsumerSecretArray = {"",
-		 												""
-													 	};
-	public final static String[] AccessTokenArray = {"",
-		 											 ""
-													 };
-	public final static String[] AccessSecretArray = {"",
-													  ""
-													 };
+	public final static String[] ConsumerKeyArray = {"",""};
+	public final static String[] ConsumerSecretArray = {"",""};
+	public final static String[] AccessTokenArray = {"",""};
+	public final static String[] AccessSecretArray = {"",""};
 	
 }
